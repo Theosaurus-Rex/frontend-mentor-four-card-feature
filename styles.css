@@ -7,3 +7,7 @@
   --neutral-grayish-blue: hsl(229, 6%, 66%);
   --neutral-light-gray: hsl(0, 0%, 98%);
 }
+
+body {
+  font-family: "Poppins", Arial, sans-serif;
+}
